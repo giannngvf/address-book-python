@@ -33,18 +33,5 @@ The Address Book Python program is a lab activity focused on the application of 
 - `searchContact()`: Searches for contacts based on user input.
 - `mainMenu()`: Provides the main menu interface for user interactions.
 
-### Author's Note
+## Author's Note
 This is the very first program I developed that I’m truly proud of. It was very challenging for me, so I really did a lot of research, especially on how can it save contacts and how can it also retrieve the users' information.
-
-### Example Usage
-
-```plaintext
--------------------Address Book----------------------
-What would you like to do?
- 1 - Add Contact
- 2 - Edit
- 3 - Delete Contact
- 4 - View Contacts
- 5 - Search Address Book
- 6 - Exit
- Choose an option: 
